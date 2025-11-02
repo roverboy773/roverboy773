@@ -1,5 +1,3 @@
-github readme
-
 # 💫 About Me:
 Pranjal Sharma<br>Frontend Developer @ Country Delight | Feb 2022 – Present | Gurugram, Haryana<br><br>Technical Skills:<br>ReactJS, AngularJS, TypeScript, HTML, CSS, NodeJs, Angular Material, Bootstrap, Tailwind CSS,FormMik
 
